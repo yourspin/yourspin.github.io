@@ -1,2 +1,5 @@
 # your-spin.com
-Public facing website
+
+Our public facing website.
+
+Currently just a placeholder... more to follow in due course!
